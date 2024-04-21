@@ -1,4 +1,4 @@
 # Dev dependencies
 
-fastapi
+fastapi[all]
 uvicorn[standard]
